@@ -2,6 +2,8 @@
 
 ## Purpose of this Upgrade
 
+> **For detailed upgrade instructions, please refer to the Upgrade Path in its [English](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server.md) and [Greek version](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server-Greek.md)**.
+
 Oracle has announced the general availability of Oracle Analytics Server (OAS) 2024, which introduces over 100 new features aimed at enhancing data analytics and improving business outcomes. The decision to undertake this upgrade is driven by the comprehensive set of features it offers, as detailed in the [Oracle Blog](https://blogs.oracle.com/analytics/post/announcing-the-general-availability-of-oracle-analytics-server-2024). 
 
 The most significant motivating factor is the implementation of the [role-based filtering feature](https://docs.oracle.com/en/cloud/paas/analytics-cloud/tutorial-role-based-filters/index.html#step_one), which facilitates the administration of data security and privacy by restricting the visibility and actions of individuals based on their application roles, like shown in the Oracle Analytics Video below:
@@ -30,4 +32,4 @@ Other key new features include:
 
 These enhancements collectively contribute to a more powerful and user-friendly analytics experience.
 
-For detailed upgrade instructions, please refer to the Upgrade Path in its [English](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server.md) and [Greek version](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server-Greek.md).
+> **For detailed upgrade instructions, please refer to the Upgrade Path in its [English](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server.md) and [Greek version](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server-Greek.md)**.
