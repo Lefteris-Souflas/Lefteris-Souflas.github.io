@@ -174,7 +174,7 @@ start.cmd
 ### Εκτέλεση του αρχείου Java Archive (JAR) του Fusion Middleware (FMW) χρησιμοποιώντας την εγκατεστημένη έκδοση του Java Development Kit (JDK)
 
 ```cmd
-C:\Java\jdk1.8\bin\java.exe -jar Z:\fmw_12.2.1.4.0_infrastructure.jar
+"C:\Java\jdk1.8\bin\java.exe" -jar Z:\fmw_12.2.1.4.0_infrastructure.jar
 ```
 
 Στη συνέχεια, ακολουθάμε τα βήματα του Universal Installer, όπως παρακάτω:
@@ -194,7 +194,7 @@ C:\Java\jdk1.8\bin\java.exe -jar Z:\fmw_12.2.1.4.0_infrastructure.jar
 ### Εκτέλεση του αρχείου Java Archive (JAR) του Oracle Analytics Server (OAS) χρησιμοποιώντας την εγκατεστημένη έκδοση του Java Development Kit (JDK)
 
 ```cmd
-C:\Java\jdk1.8\bin\java.exe -jar Z:\OAS_7_6\Oracle_Analytics_Server_2024_Windows.jar
+"C:\Java\jdk1.8\bin\java.exe" -jar Z:\OAS_7_6\Oracle_Analytics_Server_2024_Windows.jar
 ```
 
 Στη συνέχεια, ακολουθάμε τα βήματα του Universal Installer, όπως παρακάτω:
