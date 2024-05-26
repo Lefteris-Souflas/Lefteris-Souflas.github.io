@@ -1,3 +1,5 @@
+# UPGRADING ORACLE ANALYTICS SERVER
+
 # Purpose of this Upgrade
 
 Oracle has announced the general availability of Oracle Analytics Server (OAS) 2024, which introduces over 100 new features aimed at enhancing data analytics and improving business outcomes. The decision to undertake this upgrade is driven by the comprehensive set of features it offers, as detailed in the [Oracle Blog](https://blogs.oracle.com/analytics/post/announcing-the-general-availability-of-oracle-analytics-server-2024). 
