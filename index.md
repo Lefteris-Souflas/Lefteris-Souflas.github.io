@@ -30,4 +30,4 @@ Other key new features include:
 
 These enhancements collectively contribute to a more powerful and user-friendly analytics experience.
 
-For detailed upgrade instructions, please refer to the [Upgrade Path](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server.md).
+For detailed upgrade instructions, please refer to the Upgrade Path in its [English](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server.md) and [Greek version](docs/Oracle-Analytics-Server/Upgrading-Oracle-Analytics-Server-Greek.md).
